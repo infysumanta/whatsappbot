@@ -1,1 +1,1 @@
-# Whatsapp-Web.js Bot
+# WhatsappWeb.js Bot
